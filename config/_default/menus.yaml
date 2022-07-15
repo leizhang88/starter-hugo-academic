@@ -11,10 +11,10 @@ main:
     url: '#projects'
     weight: 30
   - name: Publications
-    url: '#featured'
+    url: '#publications'
     weight: 50
   - name: Awards
-    url: '#featured'
+    url: '#awards'
     weight: 60
   - name: Contact
     url: '#contact'

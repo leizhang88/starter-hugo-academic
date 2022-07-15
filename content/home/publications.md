@@ -27,13 +27,13 @@ content:
   # Choose how many pages you would like to display (0 = all pages)
   count: 0
   # Choose how many pages you would like to offset by
-  offset: 0
+  offset: 100
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
 design:
   # Choose a view for the listings:
-  view: citation
-  columns: '4'
+  view: compact
+  columns: '2'
 ---
 
 ### **Journal Papers**
