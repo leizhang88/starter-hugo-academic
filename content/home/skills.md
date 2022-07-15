@@ -20,11 +20,11 @@ feature:
     icon: terminal
     icon_pack: fas
     name: Languages
-  - description: React, Spring Boot, PyTorch
+  - description: Node.js, React, jQuery, Bootstrap
     icon: cube
     icon_pack: fas
-    name: Frameworks
-  - description: MongoDB, MySQL, LaTex
+    name: Libraries
+  - description: MongoDB, MySQL, LaTex, Git
     icon: hammer
     icon_pack: fas
     name: Tools

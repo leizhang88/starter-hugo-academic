@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 25
 
 title: Experience
 subtitle:
@@ -22,28 +22,38 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Graduate Research Assistant
+    company: Northeastern University
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    company_logo: neu-logo
+    location: Boston
+    date_start: '2019-09-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    description: |2- 
+      * Developed the Layered Stochastic Approximation Monte Carlo algorithm for performance-based wind engineering
+      * Applied artificial neural network for computationally efficient fragility analysis
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Graduate Teaching Assistant
+    company: Northeastern University
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: neu-logo
+    location: Boston
+    date_start: '2021-09-01'
+    date_end: '2021-12-20'
+    description: |2-
+      * Graded for *Steel Structure Design*
+      * Lectured and held office hours for *Steel Structure Design*
+
+  - title: Graduate Research Assistant
+    company: Tongji University
+    company_url: ''
+    company_logo: tongji-logo
+    location: Shanghai
+    date_start: '2016-09-01'
+    date_end: '2019-06-30'
+    description: |2-
+      * Performed FEM modeling of long-span cable-stayed/suspension bridges for dynamic property examination
+      * Designed and conducted sectional/full-model wind resistance tests of extra long-span bridges for vibration mitigation/suppression
 
 design:
   columns: '2'

@@ -24,7 +24,7 @@ content:
     postcode: '02115'
     country: United States
     country_code: US
-  directions: Ell Hall 301A, Northeastern University
+  directions:
 design:
   columns: '2'
 ---

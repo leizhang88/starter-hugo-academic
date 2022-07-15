@@ -7,16 +7,15 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 65
+weight: 100
 
-title: Recent Posts
-subtitle:
+title: Awards & Honors
+subtitle: ''
 
 content:
   # Filter on criteria
   filters:
     folders:
-      - post
     tag: ''
     category: ''
     publication_type: ''
@@ -25,14 +24,23 @@ content:
     exclude_future: false
     exclude_past: false
   # Choose how many pages you would like to display (0 = all pages)
-  count: 5
+  count: 0
   # Choose how many pages you would like to offset by
-  offset: 0
+  offset: 100
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
-
 design:
   # Choose a view for the listings:
   view: compact
   columns: '2'
 ---
+
+### **Northeastern University**
+- College of Engineering Dean’s Fellowship, May 2019
+
+### **Tongji University**
+- Excellent Graduate, Apr 2019
+- National Graduate Scholarship, Nov 2018
+
+### **Shanghai Municipal Education Commission**
+- Excellent Graduate, Mar 2016

@@ -14,7 +14,7 @@ organizations:
     url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include structural dynamics, random vibration and machine learning.
+bio:
 
 # Interests to show in About widget
 interests:
