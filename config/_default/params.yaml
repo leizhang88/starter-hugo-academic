@@ -70,7 +70,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/leizhang88'
     content_dir: content
     branch: master
   avatar:
@@ -102,6 +102,10 @@ extensions:
     branch: main
     local_backend: false
   academicons:
+    enable: true
+  ai:
+    enable: true
+  fas:
     enable: true
 
 # Security
