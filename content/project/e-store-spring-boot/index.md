@@ -1,5 +1,5 @@
 ---
-title: E-store website
+title: E-store Website
 summary: A full-stack web application by Java Spring Boot and MySQL
 tags:
   - Java
@@ -11,7 +11,7 @@ date: '2021-01-22T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Database schema
+  caption: Data model
   focal_point: Smart
 
 links:
@@ -32,21 +32,22 @@ url_video: ''
 ##slides: example
 ---
 
-A full-stack web application built on Java Spring Boot with MyBatis and MySQL database.
+A full-stack web application built with Java Spring Boot and MySQL database accessed via MyBatis.
 
 ### Features
 
-- User register/login
-- User profile editing
-- Address management
-- Product display
-- Session-based cart management
-- Order management
-- Checkout
+- User register/login and profile editing
+- User address management
+- Session-based cart management and order generation
 
-### Technologies
-- Spring Boot
-- MyBatis
-- MySQL
-- Maven
-- JQuery
+### Screenshots
+- User login 
+![login](estore-login.png)
+- User profile
+![login](estore-profile.png)
+- User address management
+  ![login](estore-address.png)
+- Shopping cart
+  ![login](estore-shopping-cart.png)
+- Order generation
+  ![login](estore-order.png)

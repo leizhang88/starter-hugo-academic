@@ -16,3 +16,18 @@ After finalizing your editing, run
 $ hugo -D
 ```
 Check output in `./public/` directory and send it to your remote server.
+
+#### If error saying 'Error: from config: failed to resolve output format "headers" from site config' occurs after running `hugo server`, go to `config/_default/config.yaml` and change the line
+```
+home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
+```
+to
+```
+home: []
+```
+then run
+```
+hugo mod clean
+hugo mod get
+```
+Now change the line back to its original form and run `hugo server` again.
