@@ -1,6 +1,6 @@
 ---
 title: Online Learning Management System
-summary: A full-stack web application of client-server architecture
+summary: A stateful web application for online learning management using React, Redux and Java.
 tags:
   - Node.js
   - React

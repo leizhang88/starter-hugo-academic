@@ -16,15 +16,15 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: Java, JavaScript, Python, R
+  - description: Java, JavaScript, Python, C/C++, R
     icon: terminal
     icon_pack: fas
     name: Languages
-  - description: Node.js, React, jQuery, Bootstrap
+  - description: NodeJS, ReactJS, jQuery, Bootstrap
     icon: cube
     icon_pack: fas
     name: Libraries
-  - description: MongoDB, MySQL, LaTex, Git
+  - description: Linux, Git/Github, Vim, MongoDB, MySQL
     icon: hammer
     icon_pack: fas
     name: Tools

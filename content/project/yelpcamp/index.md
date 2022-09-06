@@ -1,6 +1,6 @@
 ---
 title: YelpCamp for Camping Site Sharing
-summary: A full-stack web application for camping site sharing, powered by Node.js and express
+summary: A website hosted on Heroku that allows users to share and post reviews on camping sites.
 tags:
   - Node.js
   - Express

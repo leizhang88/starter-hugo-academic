@@ -6,11 +6,11 @@ title: Lei Zhang
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate
+role: MSCS @ Georgia Tech
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Northeastern University
+  - name: Ph.D. Candidate @ Northeastern
     url: 
 
 # Short bio (displayed in user profile at end of posts)
@@ -26,9 +26,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: M.S. in Computer Science
+      institution: Georgia Institute of Technology
+      year: 2024
     - course: Ph.D. in Civil Engineering
       institution: Northeastern University
-      year: Present
+      year: 2024
     - course: M.E. in Civil Engineering
       institution: Tongji University
       year: 2019
@@ -69,5 +72,7 @@ highlight_name: true
 ---
 
 Lei is a Ph.D. of the {{< staticref "https://web.northeastern.edu/wind/" "newtab" >}}Wind Engineering Research Group{{< /staticref >}} at Northeastern University. His research interests include wind load modeling, random vibration and wind-induced risk assessment. He develops accelerated performance-based wind engineering framework using stochastic approximation algorithm and machine learning techniques.
+
+Lei is also a MSCS graduate at Georgia Tech. Some relevant courses are Software Architecture Design, Operating Systems, Algorithms, Artificial Intelligence for Robotics, Machine Learning, etc.
 
 

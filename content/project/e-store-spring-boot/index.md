@@ -1,6 +1,6 @@
 ---
 title: E-store Website
-summary: A full-stack web application by Java Spring Boot and MySQL
+summary: An online shopping application using Java, HTML and CSS Bootstrap.
 tags:
   - Java
   - Spring Boot

@@ -16,7 +16,7 @@ content:
   autolink: true
 
   # Contact details (edit or remove options as required)
-  email: zhang.lei1@northeastern.edu
+  email: upuplei@gmail.com
   address:
     street: 360 Huntington Ave
     city: Boston

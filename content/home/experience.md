@@ -41,8 +41,8 @@ experience:
     date_start: '2021-09-01'
     date_end: '2021-12-20'
     description: |2-
-      * Graded for *Steel Structure Design*
-      * Lectured and held office hours for *Steel Structure Design*
+      * Lectured and graded for Steel Structure Design and hosted office hours to guide students to find out solutions
+      * Communicated semester project expectations with students and kept records of each student’s progress till completion
 
   - title: Graduate Research Assistant
     company: Tongji University
